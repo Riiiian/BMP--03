@@ -1,2 +1,2 @@
 # BMP--03
-learn about R 
+introduction of R programming  
